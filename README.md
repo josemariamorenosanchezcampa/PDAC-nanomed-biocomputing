@@ -17,7 +17,7 @@ The dataset and underlying scripts model a fourth-generation nanomedicine platfo
 
 ## 🧑‍🔬 Author & Metadata
 * **Lead Researcher:** JM Moreno Sánchez-Campa
-* **ORCID:** [0009-0008-5421-4601](https://orcid.org/0009-0008-5421-4601)
+* **ORCID:** [0009-0000-0927-7397](https://orcid.org/0009-0000-0927-7397)
 * **Associated Concept DOI (Report):** [10.5281/zenodo.20821491](https://doi.org/10.5281/zenodo.20821491)
 
 ## 📄 License
