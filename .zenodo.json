@@ -1,0 +1,29 @@
+{
+  "title": "PDAC Nanotherapeutic Architecture: Multiscale Computational Proof of Concept for Nanoparticle Transport and Ferroptosis-Based Therapy in PDAC",
+  "upload_type": "software",
+  "description": "Version 4.0.0 research software integrating nanoparticle diffusion, heterogeneous stromal transport, transport-to-ferroptosis coupling, deterministic/stochastic dynamics, LHS-PRCC, computed Sobol sensitivity, constrained in-silico dosing optimization, calibration utilities, and a documented pathway for external human-data validation. This is a Project Proposal / Computational Proof of Concept and not a clinical decision tool or validated therapy.",
+  "creators": [
+    {
+      "name": "Moreno Sánchez-Campa, José María",
+      "orcid": "0009-0000-0927-7397"
+    }
+  ],
+  "version": "4.0.0",
+  "license": "cc-by-4.0",
+  "publication_date": "2026",
+  "keywords": [
+    "PDAC",
+    "pancreatic ductal adenocarcinoma",
+    "nanotherapy",
+    "ferroptosis",
+    "GPX4",
+    "biophysical modeling",
+    "Sobol",
+    "PRCC",
+    "stochastic modeling",
+    "drug delivery",
+    "in silico",
+    "research software"
+  ],
+  "notes": "No individual-level human data are redistributed. Human repositories are documented as sources for future calibration and external validation."
+}
