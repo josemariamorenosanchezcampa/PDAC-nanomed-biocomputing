@@ -1,0 +1,4 @@
+source,accession,access_class,download_date,cohort_role,assay,model_variable,proxy_definition,preprocessing,checksum,notes
+GDC,TCGA-PAAD,open-or-controlled,YYYY-MM-DD,calibration,RNA-seq,GPX4_proxy,DEFINE_BEFORE_ANALYSIS,DEFINE,SHA256,Do not equate RNA with protein activity
+GTEx,pancreas,open-or-controlled,YYYY-MM-DD,reference,RNA-seq,GPX4_proxy,DEFINE_BEFORE_ANALYSIS,DEFINE,SHA256,Non-diseased reference
+CPTAC,PDAC,check-source,YYYY-MM-DD,external_validation,proteomics,GPX4_proxy,DEFINE_BEFORE_ANALYSIS,DEFINE,SHA256,Prefer protein evidence when available

@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this project, please cite the exact Zenodo version used."
+title: "PDAC Nanotherapeutic Architecture: Multiscale Computational Proof of Concept for Nanoparticle Transport and Ferroptosis-Based Therapy in PDAC"
+type: software
+authors:
+  - family-names: "Moreno Sánchez-Campa"
+    given-names: "José María"
+    orcid: "https://orcid.org/0009-0000-0927-7397"
+version: "4.0.0"
+date-released: "2026"
+doi: "10.5281/zenodo.22764930"
+license: "CC-BY-4.0"
+keywords:
+  - PDAC
+  - nanotherapy
+  - ferroptosis
+  - GPX4
+  - global sensitivity analysis
+  - Sobol
+  - PRCC
+  - in silico

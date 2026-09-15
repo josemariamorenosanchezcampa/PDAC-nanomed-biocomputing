@@ -1,0 +1,7 @@
+benchmark,value
+synthetic_calibration_only,1
+fit_success,1
+train_mse,0.0003641042066831274
+r2,0.9950836348632098
+rmse,0.01696820710957396
+mae,0.01422782104541132
